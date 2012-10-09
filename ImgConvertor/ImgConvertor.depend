@@ -13,3 +13,10 @@
 
 1349795029 /home/shane/shared/MMLab/ImgConvertor/img.h
 
+1349796450 source:/home/shane/shared/MultiMediaLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349795029 /home/shane/shared/MultiMediaLab/ImgConvertor/img.h
+
