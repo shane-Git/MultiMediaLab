@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1349773322 source:/home/shane/git/MMLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349773378 /home/shane/git/MMLab/ImgConvertor/img.h
+
+1349795191 source:/home/shane/shared/MMLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349795029 /home/shane/shared/MMLab/ImgConvertor/img.h
+
