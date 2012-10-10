@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1349773322 source:/home/shane/git/MMLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349773378 /home/shane/git/MMLab/ImgConvertor/img.h
+
+1349795191 source:/home/shane/shared/MMLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349795029 /home/shane/shared/MMLab/ImgConvertor/img.h
+
+1349796450 source:/home/shane/shared/MultiMediaLab/ImgConvertor/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349795029 /home/shane/shared/MultiMediaLab/ImgConvertor/img.h
+
+1349831405 source:/home/shane/shared/MultiMediaLab/BMP2RLE/main.c
+	<stdio.h>
+	<stdlib.h>
+	"img.h"
+
+1349829393 /home/shane/shared/MultiMediaLab/BMP2RLE/img.h
+
