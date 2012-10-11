@@ -74,7 +74,7 @@ int main(int argc, char *argv[])
 	OutputHeader.G = 0x47;
 	OutputHeader.Size = 0x48;
 
-	OutputFooter.ESC1 = 0x1B;
+	OutputFooter.ESC1 = 0x07;
 	OutputFooter.ESC2 = 0x1B;
 	OutputFooter.G = 0x47;
 	OutputFooter.N = 0x4E;
@@ -144,5 +144,7 @@ int main(int argc, char *argv[])
 
 	fwrite(&OutputFooter,1,sizeof(OutputFooter),RLEOut);
 	fclose(RLEOut);
+	printf("\n");
+	printf("%d,%d,%d\n",BMPInQuad.R1,BMPInQuad.G1,BMPInQuad.B1);
 	return 0;
 }
